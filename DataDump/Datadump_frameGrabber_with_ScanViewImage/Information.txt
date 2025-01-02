@@ -1,0 +1,10 @@
+The screenshot and the Dumpdata is retrieved by using the SDK tool provided by the Slamtec.
+https://github.com/Slamtec/rplidar_sdk
+
+Using the frame_grabber app from the SDK following is retrieved 
+1. an image of the scan view.
+2. Dump Data of one complete 360 degree measurement sweep of the location "TopRoom".
+
+This Datadump is collected for a specific duration and filled for only 1 complete 360 degree sweep.
+The code can be modified and retrieve data points for each scan and store.
+
